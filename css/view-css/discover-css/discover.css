@@ -1,0 +1,26 @@
+/* .moment-img {
+	max-width: 24px;
+	max-height: 24px;
+} */
+
+.m-div{
+	float: left;
+}
+.moment-img{
+	color: #51874c;
+	font-size: 24px !important;
+	float: left;
+	margin-top: 2px;
+}
+
+.moment-text {
+	line-height: 24px;
+	color: #000000;
+	font-size: 16px;
+	float: left;
+	margin-left: 10px;
+}
+
+.moment-span {
+	margin-left: 10px;
+}

@@ -1,0 +1,76 @@
+body {
+	height: 100%;
+}
+
+.mui-content {
+	height: 100%;
+	overflow: auto;
+}
+
+.green-point {
+	position: relative;
+}
+
+.green-point::before {
+	content: " ";
+	border: 5px solid #51874c;
+	/*设置红色*/
+	border-radius: 5px;
+	/*设置圆角*/
+	position: absolute;
+	z-index: 3000;
+	right: 0%;
+	margin-right: -10px;
+	margin-top: 0px;
+}
+
+.div-text {
+	margin-top: 3px;
+}
+
+.span-btn {
+	margin-top: 10px;
+}
+
+.btn-left {
+	border: 0px;
+	padding: 4px 10px;
+	margin-right: 5px;
+}
+
+.btn-right {
+	padding: 4px 10px;
+	background-color: #51874c;
+	border: 0px;
+	color: white;
+}
+
+
+.li-container {
+	padding-top: 10px;
+}
+
+.face-img {
+	border-radius: 8%;
+	line-height: 50px;
+	max-width: 50px;
+	height: 50px;
+}
+
+.div-face {
+	margin-top: 8px;
+	float: left;
+}
+
+.div-msg {
+	margin-top: 2px;
+	float: left;
+	margin-left: 2px;
+	padding: 2px 2px 0 0;
+	line-height: 24px;
+}
+
+.div-text {
+	/* display: inline-block; */
+	font-size: 16px;
+}

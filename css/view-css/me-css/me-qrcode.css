@@ -1,0 +1,40 @@
+.header-container {
+	position: fixed;
+}
+
+.header-left {
+	color: white;
+}
+
+.header-right {
+	font-size: 16px;
+	font-weight: 800;
+	color: white;
+	margin-bottom: 12px;
+}
+
+.div-content {
+	width: 100%;
+	position: absolute;
+	top: 44px;
+	left: 2px;
+	bottom: 0px;
+	padding: 80px 30px 0px 30px;
+	border-radius: 30px;
+}
+
+.div-content-header{
+	background-color: white;
+	padding-top: 20px;
+	padding-left: 20px;
+}
+
+.face-img{
+	width: 60px;
+	border-radius: 8%;
+	float: left;
+}
+
+.qrcode-img{
+	background-color: white;text-align: center;
+}

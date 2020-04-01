@@ -1,0 +1,142 @@
+{
+  "id": "1516501",
+  "name": "mgChat",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "9138966",
+      "name": "音乐",
+      "font_class": "yinle1",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "11391542",
+      "name": "音乐",
+      "font_class": "yinle",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    },
+    {
+      "icon_id": "6565350",
+      "name": "暂停",
+      "font_class": "zanting",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "12469622",
+      "name": "播放",
+      "font_class": "bofang",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "8690755",
+      "name": "评论",
+      "font_class": "pinglun",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "11148647",
+      "name": "分享",
+      "font_class": "fenxiang",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "12952545",
+      "name": "like",
+      "font_class": "home_ico_like-",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "12318948",
+      "name": "中期拍摄",
+      "font_class": "zhongqipaishe",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "11231924",
+      "name": "like_1",
+      "font_class": "like_",
+      "unicode": "e7aa",
+      "unicode_decimal": 59306
+    },
+    {
+      "icon_id": "11882953",
+      "name": "bg-like",
+      "font_class": "bg-like",
+      "unicode": "e650",
+      "unicode_decimal": 58960
+    },
+    {
+      "icon_id": "2856962",
+      "name": "聊天选中",
+      "font_class": "liaotianxuanzhong",
+      "unicode": "e67c",
+      "unicode_decimal": 59004
+    },
+    {
+      "icon_id": "5641833",
+      "name": "扫一扫",
+      "font_class": "saoyisao",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "13381782",
+      "name": "添加好友",
+      "font_class": "-3",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "1330567",
+      "name": "朋友圈",
+      "font_class": "pengyouquan",
+      "unicode": "e73b",
+      "unicode_decimal": 59195
+    },
+    {
+      "icon_id": "5640365",
+      "name": "发现",
+      "font_class": "faxian",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "8084507",
+      "name": "我的",
+      "font_class": "wode",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "9591448",
+      "name": "我的",
+      "font_class": "wode1",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "13381775",
+      "name": "联系人",
+      "font_class": "-",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "13381787",
+      "name": "聊天",
+      "font_class": "-1",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+		<title></title>
+		<script src="../js/mui.min.js"></script>
+
+		<link rel="stylesheet" type="text/css" href="../css/view-css/registLogin/util.css">
+		<link rel="stylesheet" type="text/css" href="../css/view-css/registLogin/main.css">
+		<link rel="stylesheet" type="text/css" href="../css/view-css/registLogin/login.css">		
+
+		<script type="text/javascript" charset="utf-8">
+			mui.init();
+		</script>
+	</head>
+
+	<body>
+
+		<div class="mui-content">
+			<div class="container-login100">
+				<div class="wrap-login100 p-t-85 p-b-20">
+					<form id="userform">
+						<span id="title" class="login100-form-title p-b-70 title">
+							MgChat
+						</span>
+						<span class="login100-form-avatar">
+							<img id="img_login_face" src="../images/face/default.png" alt="">
+						</span>
+
+						<div class="wrap-input100 validate-input m-t-85 m-b-35">
+							<input class="input100" type="text" id="txt_username" name="username" placeholder="用户名">
+							<span class="focus-input100"></span>
+						</div>
+
+						<div class="wrap-input100 validate-input m-b-50">
+							<input class="input100" type="password" id="txt_password" name="password" placeholder="密码">
+							<span class="focus-input100"></span>
+						</div>
+						<div class="container-login100-form-btn">
+							<button type="submit" id="registOrLogin" class="login100-form-btn btn">
+								登录/注册
+							</button>
+						</div>
+					</form>
+					
+				</div>
+			</div>
+		</div>
+		<script type="text/javascript" src="../js/app.js" ></script>
+		<script type="text/javascript" src="../js/config.js" ></script>
+		<script type="text/javascript" src="../js/utils/http.js"></script>
+		<script type="text/javascript" src="../js/view-js/login.js"></script>
+
+	</body>
+
+</html>

@@ -1,0 +1,64 @@
+
+*{
+	margin: 0;
+	padding: 0;
+}
+.title{
+	box-shadow: 0 2px 5px #51874c;
+}
+.header-right{
+	color: #CCCCCC;
+}
+.main{
+	position: relative;
+}
+
+.box{
+	padding: 6px 0 0 10px;
+	float: left;
+}
+
+.pic{
+	padding: 6px 0 20px 0;
+	border: 0px solid #51874c;
+	border-radius: 2px;
+	box-shadow: 2px 2px 5px #51874c;
+	position: relative;
+}
+.pic img{
+	width: 172px;
+	height: auto;;
+}
+.face{
+	position: absolute;
+	bottom: 8px;
+	left: 4px;
+}
+.face img{
+	width: 28px;
+	height: 28px;
+	border-radius: 50px;
+}
+.like{
+	margin:0 2px 2px 0;
+}
+.like-icon-grey{
+	float: right;
+	margin-right: 4px;
+	color: #CCCCCC;
+	font-size: 12px !important;
+}
+
+.like-icon-green{
+	float: right;
+	margin-right: 4px;
+	color: #51874c;
+	font-size: 12px !important;
+}
+.like-text{
+	float: right;
+	margin-right: 4px;
+	margin-top: 2px;
+	color: #CCCCCC;
+	font-size: 14px;
+}

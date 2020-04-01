@@ -1,0 +1,40 @@
+.title{
+	font-weight: 800;
+	font-size: 36px;
+	color: #51874c;
+	transform: scale(1,1);
+}
+
+.btn {
+	background-color: #51874c;
+}
+
+.p-t-85 {
+	padding-top: 10px;
+}
+
+.p-b-70 {
+	padding-bottom: 35px;
+}
+
+.m-t-85 {
+	margin-top: 15px;
+}
+
+.container-login100 {
+	padding: 25px;
+}
+
+/*toast信息提示*/
+
+.mui-toast-container {
+	bottom: 50% !important;
+}
+
+.mui-toast-message {
+	opacity: 0.6;
+	color: #fff;
+	width: 180px;
+	padding: 70px 5px 10px 5px;
+}
+

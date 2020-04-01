@@ -1,0 +1,58 @@
+<!doctype html>
+<html>
+
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+		<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+		<link href="../../css/mui.css" rel="stylesheet" />
+		<link href="../../css/view-css/moment-css/bgmlist.css" rel="stylesheet" />
+		<link href="../../fonticon/iconfont.css" rel="stylesheet" />
+		<style>
+		</style>
+	</head>
+
+	<body>
+
+		<header class="mui-bar mui-bar-nav title">
+			<a class="mui-action-back mui-icon mui-icon-left-nav mui-pull-left header-left"></a>
+			<h1 class="mui-title header-title">选择背景音乐</h1>
+			<a id="openmenu" class="mui-icon mui-icon-right-nav mui-pull-right"></a>
+		</header>
+		<!-- <br /> -->
+		<div class="mui-content">
+			<ul id="bgmlist" class="mui-table-view">
+
+				<li class="mui-table-view-cell mui-media">
+					<span class="mui-pull-left iconfont icon-yinle1 media-left"></span>
+					<span class="mui-media-body  media-center" id="">Profile Photo</span>
+					<span class="mui-pull-right iconfont icon-bofang media-right"></span>
+				</li>
+			</ul>
+			<!-- <form class="mui-input-group"> -->
+
+			<br />
+			<ul class="mui-table-view">
+				<li class="mui-table-view-cell mui-media">
+					<div class="mui-input-row ">
+						<label></label>
+						<input id="des" type="text" class="mui-input-clear" placeholder="说点什么...">
+					</div>
+				</li>
+			</ul>
+			<div class="div-btn">
+				<button onclick="upload()" type="button" class="mui-btn mui-btn-block btn">开始上传</button>
+			</div>
+		</div>
+
+		<script type="text/javascript" src="../../js/mui.js"></script>
+		<script type="text/javascript" src="../../js/app.js"></script>
+		<script type="text/javascript" src="../../js/utils/http.js"></script>
+		<script type="text/javascript">
+			mui.init()
+		</script>
+		<script type="text/javascript" src="../../js/view-js/moment-js/bgmlist.js"></script>
+
+	</body>
+
+</html>

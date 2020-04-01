@@ -1,0 +1,21 @@
+.title{
+	background-color: #51874c;
+}
+/* 
+.mui-tab-item span{
+} */
+.mui-bar-tab .mui-tab-item.mui-active{
+	color: #51874c;
+}
+
+.m-font{
+	color: #51874c;
+}
+
+.m-font-size{
+	font-size: 18px;
+}
+
+.div-sheet{
+	background-color: #E3E3E3;
+}

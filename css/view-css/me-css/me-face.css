@@ -1,0 +1,19 @@
+.header-left{
+	color: white;
+}
+
+.header-right{
+	color: white;
+	font-size: 26px;
+	line-height: 12px;
+}
+
+.img{
+	margin-top: 2px;
+	background-color: #E3E3E3;
+}
+
+
+body{
+	background-color: #E3E3E3;
+}

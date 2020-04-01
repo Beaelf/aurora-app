@@ -1,0 +1,54 @@
+.face-span {
+	line-height: 42px;
+	color: #51874c;
+	margin-left: 3px;
+	font-weight: 800;
+}
+
+.face-title {
+	line-height: 42px;
+	font-size: 16px;
+}
+
+.nickname-span {
+	color: #51874c;
+	margin-left: 3px;
+	font-weight: 800;
+}
+
+.nickname-text {
+	color: grey;
+	font-size: 14px;
+	margin-top: 2px;
+}
+
+.account-text {
+	color: grey;
+	font-size: 14px;
+	margin-top: 2px;
+	margin-right: 12px;
+}
+
+.qrcode-span {
+	line-height: 42px;
+	color: #51874c;
+	margin-left: 3px;
+	font-weight: 800;
+}
+
+.qrcode-img {
+	max-width: 20px;
+	height: 20px;
+}
+
+.qrcode-title {
+
+	line-height: 42px;
+	font-size: 16px;
+}
+
+.logout {
+	text-align: center;
+	color: #51874c;
+	font-weight: 800;
+}

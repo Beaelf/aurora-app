@@ -1,0 +1,29 @@
+html,
+body {
+	height: 100%;
+	overflow: hidden;
+}
+
+.mui-bar {
+	-webkit-box-shadow: none;
+	box-shadow: none;
+}
+
+.mui-indexed-list-bar a {
+	color: white;
+	background-color: #51874c;
+}
+
+.div-index {
+	background-color: #51874c;
+}
+
+.list-item-face{
+	max-width: 35px;
+	height: 35px
+}
+
+.list-item-text{
+	margin-top: 4px;
+	line-height: 35px;
+}

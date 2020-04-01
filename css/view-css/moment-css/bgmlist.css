@@ -1,0 +1,40 @@
+.title{
+	background-color: #51874C;
+}
+.header-left{
+	color: #CCCCCC;
+}
+.header-title{
+	color: #CCCCCC;
+	font-weight: 800;
+	white-space: 4px;
+}
+.div-btn{
+	text-align: center;
+	padding: 30px 24px 100px 24px;
+}
+.btn{
+	background-color: #51874C;
+	color: #CCCCCC;
+	border-radius: 6px;
+}
+
+.media-left{
+	line-height: 42px;
+	font-size: 48px !important;
+	color: #51874C;
+	font-weight: 500 !important;
+	transform: scale(1.1,1);
+	border-right: solid 1px #51874C;
+}
+.media-center{
+	line-height: 42px;
+	margin-left: 10px;
+}
+.media-right{
+	line-height: 42px;
+	font-size: 28px !important;
+	font-weight: 400 !important;
+	color: #51874C;
+	margin-bottom: 6px;
+}
